@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Simple To-Do List",
+  "version": "1.0",
+  "description": "A minimal to-do list Chrome extension without images or icons.",
+  "permissions": ["storage"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
